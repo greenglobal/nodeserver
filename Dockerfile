@@ -1,4 +1,4 @@
-FROM ndaidong/ubuntu
+FROM ggitvn/ubuntu
 
 MAINTAINER @ndaidong
 
